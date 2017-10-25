@@ -1,0 +1,6 @@
+if you want to contribute, I need to enable flow logs on the VPC
+and enable cloudwatch and cloudtrail
+and send all the logs to an S3 bucket
+just don't put anything USAA specific on it
+since that's completely public
+and beware keys and creds... 
